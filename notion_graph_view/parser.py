@@ -1,5 +1,5 @@
 from typing import Any
-from config import notion
+from notion_graph_view.config import notion
 
 
 class TitleParser:
